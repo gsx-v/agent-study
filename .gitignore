@@ -4,3 +4,4 @@ __pycache__/
 chroma_langchain_db
 test.py
 chroma_*/
+agentic-rag-for-dummies/
